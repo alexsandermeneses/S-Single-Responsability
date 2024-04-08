@@ -1,1 +1,2 @@
-Single Responsability. Only one main function in the class 
+S - Single Responsability. 
+- Only one main function in the class 
