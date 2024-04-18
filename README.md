@@ -1,4 +1,4 @@
-#S - Single Responsability. 
+# S - Single Responsability. 
 
 This project does not have code, as the intuition is to show that a class has to be specialized in a single subject and have only one responsibility within the software.
 
